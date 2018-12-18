@@ -1,1 +1,7 @@
-# Speed-Dating
+# Speed Dating
+
+In this experiment, I used data taken from multiple trials of a speed dating experiment. In it, each participant would fill out an extensive questionaire before and after the speed dating round. One of the most important set of questions were those which asked the participant to rate the importance of certain qualities. These qualities were: attractness, sincerity, intelligence, fun, ambition, and shared interests. Participants were asked not just how important these traits were to them, but how important they felt these traits were to others in general, others of the same sex, others of the opposite sex, and how each of the people they had just "speed-dated" rated on each of the 6 traits. 
+
+As speed dating goes, each participant decides whether or not they want to meet up with each of their new "datees". If 2 people both want to meet, they recieve each other's contact info.
+
+After cleaning, analyziing, and visualizing the data, the results were interesting. Most participants felt members of the opposite sex to be more shallow, caring much more about looks than the other traits. Most participants also rated members of the same sex to be much more shallow than themselves. Of course, the most important trait in determining whether or not a subject would want to meet again or not, was how highly they rated their attractiveness. Seems people are just as shallow as they perceive others to be.
